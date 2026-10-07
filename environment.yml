@@ -1,0 +1,16 @@
+name: dissertation-project
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - faiss-cpu
+  - scipy
+  - jupyterlab
+  - numpy
+  - scikit-learn
+  - pandas
+  - seaborn
+  - tqdm
+  - ipykernel
+  - matplotlib
+prefix: C:\Users\jackb\anaconda3\envs\dissertation-project
